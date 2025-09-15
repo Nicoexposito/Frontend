@@ -1,1 +1,2 @@
-# Frontend Tienda de Camisetas de Fútbol
+# Frontend de Tienda de Camisetas de Fútbol
+Version 
